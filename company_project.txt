@@ -4,3 +4,6 @@
 테스트 문장 2
 테스트 폴더
 company project
+- freshman 수정 부분
+  1.가나다라
+  2.abcd
