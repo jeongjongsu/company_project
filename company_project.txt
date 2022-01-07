@@ -4,5 +4,11 @@
 테스트 문장 2
 테스트 폴더
 company project
+<<<<<<< HEAD
 -리더의 수정 문장
 1. 하하하하
+=======
+- freshman 수정 부분
+  1.가나다라
+  2.abcd
+>>>>>>> baf285e92c8c8f2db88dc104480dc10fadee4e99
