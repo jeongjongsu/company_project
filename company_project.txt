@@ -7,6 +7,7 @@ company project
 <<<<<<< HEAD
 -리더의 수정 문장
 1. 하하하하
+2. 2번째 수정
 =======
 - freshman 수정 부분
   1.가나다라
